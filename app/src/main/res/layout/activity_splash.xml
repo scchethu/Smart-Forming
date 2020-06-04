@@ -12,8 +12,9 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginTop="219dp"
-        android:text="Smart Farming"
+        android:text="Green Farming"
         android:textAlignment="center"
+        android:textColor="@color/colorPrimary"
         android:textSize="36sp"
         android:textStyle="bold|italic" />
 
